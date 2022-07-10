@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+   display: flex;
+   justify-content: center;
+   text-align: center;
+   align-items: center;
+background: url(https://images.unsplash.com/photo-1481627834876-b7833e8f5570?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1856&q=80) no-repeat center center/ cover ;
+}
+
+.box{
+    border: 0px solid black;
+    width: 50%;
+    margin: 0 auto;
+    padding: 2em 2em;
+    background: #fff;
+    border-radius: 1em;
+}
+
+.heading{
+    border: 0px solid black;
+    width: 50%;
+    margin: 1em auto;
+    background-color: #334;
+    color: #fff;
+    padding: 0.3em;
+}
+
+.person-qoute{
+    padding: 1em 1em;
+    line-height: 1.5;
+    font-size: 1.1em;
+}
+
+
+.person{
+    font-size: 2em;
+    font-weight: 300;
+    margin: 0.2em;
+    color: rgb(225, 130, 130);
+
+}
+
+
+.btn{
+    padding: 10px;
+    background-color: black;
+    color: #fff;
+    border-radius: 1em;
+    cursor: pointer;
+    border: none;
+}
+
+.btn:hover{
+    background-color: rgb(81, 79, 79);
+}
+
+
+
+
+
+
+
+
+
+
+
+
